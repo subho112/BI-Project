@@ -7,3 +7,18 @@ Daily Gain: summary of the daily gain of the stocks compared with the initial co
 Holdings: summary of the holdings and the price. Also, the data frame consists of total value and the gain or loss on individual holdings.
 Stock: daily open, high, low, close, adj close, and trade volume of each holding for the past year.
 Type: categorical summary of each holding. Also, contains a target price for each holding.
+
+
+Creating a Power BI dashboard for the stock market can provide valuable insights and help you make informed investment decisions. Here’s how you might structure such a dashboard:
+
+Market Overview: Visualizations showing overall market performance, such as major stock indices (e.g., S&P 500, NASDAQ, Nifty 50) and their trends over time.
+
+Sector Analysis: Charts displaying the performance of different sectors (e.g., technology, healthcare, finance) to identify which sectors are performing well.
+
+Individual Stock Performance: Detailed views of specific stocks, including price trends, volume, and key financial metrics (e.g., P/E ratio, market capitalization).
+
+Economic Indicators: Incorporate relevant economic data that can impact the stock market, such as GDP growth, unemployment rates, and interest rates.
+
+News and Events: A section highlighting recent news and significant events affecting the market or specific stocks.
+
+Investment Portfolio: Tracking the performance of your own investments, including gains/losses, asset allocation, and risk metrics.
