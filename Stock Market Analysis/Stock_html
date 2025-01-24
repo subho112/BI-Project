@@ -1,1 +1,9 @@
-Stock Market Analysis Dashboard
+This project is to create a performance dashboard of the list of stocks that are carefully randomly selected. 
+
+Spreadsheets
+Total of four spreadsheets is imported into the BI project. They create a simple database that intertwines with each other.
+
+Daily Gain: summary of the daily gain of the stocks compared with the initial cost.
+Holdings: summary of the holdings and the price. Also, the data frame consists of total value and the gain or loss on individual holdings.
+Stock: daily open, high, low, close, adj close, and trade volume of each holding for the past year.
+Type: categorical summary of each holding. Also, contains a target price for each holding.
