@@ -1,1 +1,28 @@
-Blinkit Powerbi Dashboard
+The Blinkit Power BI project involves creating a comprehensive dashboard to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. Here's a brief description:
+
+Project Overview
+The Blinkit Power BI project aims to provide actionable insights through various Key Performance Indicators (KPIs) and visualizations. The dashboard focuses on:
+
+Total Sales: Tracking overall revenue trends.
+
+Average Sales: Identifying typical transaction values.
+
+Number of Items: Monitoring product movement.
+
+Average Rating: Gauging customer satisfaction.
+
+Outlet Locations: Mapping geographical performance.
+
+
+Project Steps
+Requirements Gathering: Collect business and technical requirements.
+
+Data Connection: Integrate data from various sources.
+
+Data Cleaning: Ensure data quality and consistency.
+
+Data Modeling: Develop data models for analysis.
+
+Dashboard Development: Create interactive reports and dashboards.
+
+Insights Generation: Provide actionable insights for optimization.
