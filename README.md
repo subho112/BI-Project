@@ -11,3 +11,8 @@ The Blinkit Power BI project focuses on developing a robust and interactive dash
 The HR Analytics Power BI project, organizations will be better equipped to navigate the complexities of human resource management, enhance employee engagement, and achieve their strategic goals.
 
 ![image alt](https://github.com/subho112/BI-Project/blob/ae6e9789ffdf3a4a2abbe058fec72c7312a20b08/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.PNG)
+
+
+The Stock Market Analytics Power BI project, investors and financial analysts will be better equipped to navigate the complexities of the stock market, optimize their investment strategies, and achieve their financial goals.
+
+![image alt](https://github.com/subho112/BI-Project/blob/c3b00ba03373eab3c648e86175ffb36e8b3fa5d9/Stock%20Market%20Analysis/Stock%20Market%20Dashboard.PNG)
