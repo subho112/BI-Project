@@ -6,3 +6,8 @@ The BI implementation project involves several key phases, including planning, r
 The Blinkit Power BI project focuses on developing a robust and interactive dashboard that offers a 360-degree view of key performance metrics. By leveraging Power BI's advanced data visualization capabilities, the project will deliver insights into the following areas: Sales Performance, Customer Satisfaction, Inventory Distribution etc.
 
 ![image alt](https://github.com/subho112/BI-Project/blob/f7dba885aeaa7774f4e9d8883827d488fa43eea1/Blinkit%20Project/Blinkit%20Dashboard.PNG)
+
+
+The HR Analytics Power BI project, organizations will be better equipped to navigate the complexities of human resource management, enhance employee engagement, and achieve their strategic goals.
+
+![image alt](https://github.com/subho112/BI-Project/blob/ae6e9789ffdf3a4a2abbe058fec72c7312a20b08/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.PNG)
